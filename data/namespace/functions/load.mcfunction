@@ -1,0 +1,1 @@
+tellraw @a [{"text": "Eluant Studios","color": "dark_purple","bold": true},{"text": " datapack loaded","color": "aqua","bold": false}]
